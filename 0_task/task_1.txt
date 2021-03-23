@@ -1,0 +1,8 @@
+Homework:
+Please create a landing page for events, use text and images from the lipsum.
+Landing should be responsible.
+Landing should work on firefox, opera and chrome
+Validate your html file on https://validator.w3.org/
+Use bootstrap framework
+For mobiles, menu should be tranformed in hamburger
+Reserved button should open modal with a form (full name and email)
